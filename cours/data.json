@@ -1,0 +1,23 @@
+{
+    "workbench.sideBar.location": "right",
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "explorer.confirmDelete": false,
+    "[html]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.formatOnSave": true,
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "editor.wordWrap": "on",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editor.languageDetection": false
+  }
+  
