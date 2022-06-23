@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "pseudo": "Ajani",
+      "message": "Yo les gens !",
+      "id": 1
+    },
+    {
+      "pseudo": "Ajani",
+      "message": "Yo les gens !",
+      "id": 2
+    },
+    {
+      "pseudo": "Ajani",
+      "message": "Yo les gens !",
+      "id": 3
+    },
+    {
+      "pseudo": "Ajani",
+      "message": "Yo les gens !",
+      "id": 4
+    },
+    {
+      "pseudo": "Ajani",
+      "message": "Yo les gens !",
+      "id": 5
+    }
+  ]
+}
